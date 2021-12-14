@@ -3,7 +3,7 @@
     <head>
         <meta name="viewport" content="width=device-width,initial-scale=1">
         <title>
-            Welcome | Aqgromalin Farmtech Services Private Limited
+            Welcome
         </title>
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="https://use.fontawesome.com/release/v5.11.2/css/all.css">
@@ -43,7 +43,7 @@
             <div class="modal-dialog" role="document">
                 <div class="modal-content">
                     <div class="modal-header">
-                        <h5 class="modal-title" id="signup-heading">Signup with Aqgromalin Farmtech Services Private Limited</h5>
+                        <h5 class="modal-title" id="signup-heading">Signup with</h5>
                         <button type="button" class="close" data-dismiss="modal" aria-label="close">
                             <span aria-hidden="true">&times;</span>
                         </button>
